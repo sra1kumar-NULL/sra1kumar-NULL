@@ -9,27 +9,26 @@
 - 😄 Pronouns: sravan / sam
  <h2>Skills : </h2>
   <h3>front : </h3>
-    `react`
-    `javascript`
-    `html`
-    `css`
-    `typescript`
-    `nextjs`
-    `tailwindcss`
+ 
+- `react`
+- `javascript` 
+- `html`
+- `css`
+- `typescript`
+- `nextjs`
+- `tailwindcss`
   <h3>back : </h3>
-    `nodejs`
-    `python`
-    `go`
-    `expressjs`
-    `mongodb`
-    `sql`
-    `postgres`
-    `firebase`
-  
+ 
+- `nodejs`
+- `python`
+- `go`
+- `mongodb`
+- `postgres`
+- `firebase`
   <h3>other : </h3> 
-    `git`
-    `gitlab`
-    `mac os`
-    `linux`
-    `adobe-photoshop`
+- `git`
+- `gitlab`
+- `mac os`
+- `linux`
+- `adobe-photoshop`
   
