@@ -105,8 +105,13 @@ hobbies: Badminton, Anime, Movies, Blogging
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sra1kumar-NULL&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sra1kumar-NULL&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sra1kumar-NULL&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sra1kumar-NULL&theme=radical" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sra1kumar-NULL&theme=radical" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sra1kumar-NULL&theme=radical" alt="Productive Time"/>
 </p>
 
 <p align="center">
@@ -114,9 +119,7 @@ hobbies: Badminton, Anime, Movies, Blogging
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sra1kumar-NULL&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sra1kumar-NULL&theme=radical" alt="Profile Details" width="90%"/>
 </p>
 
 ---
