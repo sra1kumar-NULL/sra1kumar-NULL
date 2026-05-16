@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning go language as well
 - 👯 I’m looking to collaborate on all the projects including MERN tech stack and go 
 - 💬 Ask me about react, front-end, full stack.
-- 📫 How to reach me:  <span>&nbsp;<span/> <a href="https://twitter.com/sra1z" target="_blank">`Twitter`</a> <span>&nbsp;<span/> <a href="https://www.linkedin.com/in/sravan-kumar-a73498211/" target="_blank">`Linked In`</a>
+- 📫 How to reach me: <span>&nbsp;<span/> <a href="https://www.sravankumarvelangi.in/" target="_blank">`sravan kumar velangi`</a> <span>&nbsp;<span/> <a href="https://twitter.com/sra1z" target="_blank">`Twitter`</a> <span>&nbsp;<span/> <a href="https://www.linkedin.com/in/sravan-kumar-a73498211/" target="_blank">`Linked In`</a>
 
  <h2>Skills : </h2>
  
