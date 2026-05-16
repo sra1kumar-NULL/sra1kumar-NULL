@@ -1,5 +1,5 @@
 ### Hi there  Developers👋
-<h1>I am <b>Sravan Kumar</b></h1>
+<h1>I am <b>Sravan Kumar Velangi</b></h1>
 
 - 🔭 I’m currently working as a `<MERN/>` stack developer , building @gluestack
 - 🌱 I’m currently learning go language as well
